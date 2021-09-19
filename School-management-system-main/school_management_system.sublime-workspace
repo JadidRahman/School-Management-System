@@ -1,0 +1,241 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/final/Controllers/logCheck.php",
+		"/C/xampp/htdocs/MID PROJECT/StudentReg.php",
+		"/C/xampp/htdocs/final/Controllers/LogginController.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/Model/DatabaseConnection.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/dashboard.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/Controller/logCheck.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/login.php",
+		"/C/xampp/htdocs/final/Models/db_config.php",
+		"/C/xampp/htdocs/PHP/Signup.php",
+		"/C/xampp/htdocs/final/Controllers/StudentController.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/Model/db.php",
+		"/C/xampp/htdocs/final/Signup.php",
+		"/C/xampp/htdocs/final/Dashboard.php",
+		"/C/xampp/htdocs/final/Login.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/registration.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/Controller/editCheck.php",
+		"/C/xampp/htdocs/final/StudentHeader.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/Librarian/View/dashboard.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/index.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/Controller/regCheck.php",
+		"/C/xampp/htdocs/final/Footer.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/header.php",
+		"/C/xampp/htdocs/final/A.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/Controller/leaveCheck.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/Controller/passCheck.php",
+		"/C/xampp/htdocs/final/SideBar.php",
+		"/C/xampp/htdocs/final/Download.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/upload.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/sideBar.php",
+		"/C/xampp/htdocs/final/Index.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/result.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/footer.php",
+		"/C/xampp/htdocs/final/Header.php",
+		"/C/xampp/htdocs/final1/2nd Class/db_config.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/routine.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/viewprofile.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/coursedetails.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/courseSearch.php",
+		"/C/xampp/htdocs/final1/1st class/index.php",
+		"/C/xampp/htdocs/final1/2nd Class/index.php",
+		"/C/xampp/htdocs/final1/1st class/add_product.php",
+		"/C/xampp/htdocs/final1/1st class/dashboard.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/teachernotice.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/reset.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/Controller/uploadCheck.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/Model/StudentModel.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/schoolnotice.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/leaverequest.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/View/edit.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/student/Controller/logOut.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/school_management_system.sql",
+		"/C/xampp/htdocs/WT_FINAL/ajax/index.php",
+		"/C/xampp/htdocs/Final Project/style.css",
+		"/C/xampp/htdocs/Final Project/footer.html",
+		"/C/xampp/htdocs/WT_FINAL/ajax/profile.php",
+		"/C/xampp/htdocs/PHP/student/Model/DatabaseConnection.php",
+		"/C/xampp/htdocs/PHP/student/View/viewprofile.php",
+		"/C/xampp/htdocs/Final Project/footer.php",
+		"/C/xampp/htdocs/Final Lab/Controllers/AdminController.php",
+		"/C/xampp/htdocs/Final Lab/Models/DBConfig.php",
+		"/C/xampp/htdocs/Final Lab/Dashboard.php",
+		"/C/xampp/htdocs/Final Lab/Login.php",
+		"/C/xampp/htdocs/Final Lab/header.php",
+		"/C/xampp/htdocs/Final Lab/Dashbord.php",
+		"/C/xampp/htdocs/PHP/credit card payment.html",
+		"/C/xampp/htdocs/projec_test/test.html",
+		"/C/xampp/htdocs/PHP/nabil.php",
+		"/C/xampp/htdocs/PHP/lab4.php",
+		"/C/xampp/htdocs/PHP/School-management-system-main/School-management-system-main/Admin/View/dashboard.php",
+		"/C/xampp/htdocs/Final Lab/AdminController.php",
+		"/C/xampp/htdocs/Final Lab/DBConfig.php"
+	],
+	"find":
+	{
+		"height": 31.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.2
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "school_management_system.sublime-project",
+	"replace":
+	{
+		"height": 59.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"signup",
+				"C:\\xampp\\htdocs\\final\\Signup.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
